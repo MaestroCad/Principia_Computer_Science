@@ -5,7 +5,7 @@ Dennis Magige
 
 LinkedIn Profile: https://www.linkedin.com/in/dennis-magige-254125218/
 
-I'm conversant with PHP,SQL,HTML,CSS and Pthon. Currently I work at ISPaSO as a web administrator for the International Students Office.
+I'm conversant with PHP,HTML,CSS and Python. Currently I work at ISPaSO as a web administrator for the International Students Office.
 
 
 
