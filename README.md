@@ -1,13 +1,13 @@
 <img src="assets/logo.png" align="right" />
 
 # Principia Computer Science
-Your Name
+Dennis Magige
 
-LinkedIn Profile: https://www.linkedin.com/in/your-name-here/
+LinkedIn Profile: https://www.linkedin.com/in/dennis-magige-254125218/
 
-Use this area to describe the program, focused study, and experiences.  This is a secondary area where you can talk about yourself to future employers.
+I'm conversant with PHP,SQL,HTML,CSS and Pthon. Currently I work at ISPaSO as a web administrator for the International Students Office.
 
-Be sure all repositories are Public once the class has concluded, so employers can see your work.
+
 
 ## Courses
 
